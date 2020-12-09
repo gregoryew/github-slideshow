@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Technology sufficently advanced enough looks like magic.
 Use the left arrow to go back!
